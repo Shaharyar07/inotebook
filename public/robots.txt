@@ -1,3 +1,88 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Disallow:
+
+const notes = [
+    {
+      _id: "613dd7a868a13d1738b6e6c74",
+      user: "613b42e4cc4e1d361f0a3e63",
+      title: "Second",
+      description: "Please help me",
+      tag: "personal",
+      date: "2021-09-12T10:34:16.185Z",
+      __v: 0,
+    },
+    {
+      _id: "613f3392398eb03874677acfc",
+      user: "613b42e4cc4e1d361f0a3e63",
+      title: "First",
+      description: "Hello world",
+      tag: "general",
+      date: "2021-09-13T11:18:42.294Z",
+      __v: 0,
+    },
+    {
+      _id: "613f33ae983eb03874677acfe",
+      user: "613b42e4cc4e1d361f0a3e63",
+      title: "Third",
+      description: "Helpp",
+      tag: "general",
+      date: "2021-09-13T11:19:10.502Z",
+      __v: 0,
+    },
+    {
+      _id: "613f339298e2b03874677acfc",
+      user: "613b42e4cc4e1d361f0a3e63",
+      title: "First",
+      description: "Hello world",
+      tag: "general",
+      date: "2021-09-13T11:18:42.294Z",
+      __v: 0,
+    },
+    {
+      _id: "613f33ae98eb030874677acfe",
+      user: "613b42e4cc4e1d361f0a3e63",
+      title: "Third",
+      description: "Helpp",
+      tag: "general",
+      date: "2021-09-13T11:19:10.502Z",
+      __v: 0,
+    },
+
+    {
+      _id: "613f339298eb038724677acfc",
+      user: "613b42e4cc4e1d361f0a3e63",
+      title: "First",
+      description: "Hello world",
+      tag: "general",
+      date: "2021-09-13T11:18:42.294Z",
+      __v: 0,
+    },
+    {
+      _id: "613f33ae398eb03874677acfe",
+      user: "613b42e4cc4e1d361f0a3e63",
+      title: "Third",
+      description: "Helpp",
+      tag: "general",
+      date: "2021-09-13T11:19:10.502Z",
+      __v: 0,
+    },
+    {
+      _id: "613f339298eb038746727acfc",
+      user: "613b42e4cc4e1d361f0a3e63",
+      title: "First",
+      description: "Hello world",
+      tag: "general",
+      date: "2021-09-13T11:18:42.294Z",
+      __v: 0,
+    },
+    {
+      _id: "613f33ae98eb0387467722acfe",
+      user: "613b42e4cc4e1d361f0a3e63",
+      title: "Third",
+      description: "Helpp",
+      tag: "general",
+      date: "2021-09-13T11:19:10.502Z",
+      __v: 0,
+    },
+  ];
